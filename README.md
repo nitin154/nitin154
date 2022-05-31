@@ -5,10 +5,10 @@
     <img align="bottom" alt="Nitin Jotwani | LinkedIn" 
          width="16px" 
          src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-</a> <a href="https://twitter.com/jotwani_nitin">
+</a> &nbsp;&nbsp; <a href="https://twitter.com/jotwani_nitin">
     <img alt="Nitin Jotwani | Twitter" 
          width="16px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-</a> <a href="mailto:nitinjotwani154@gmail.com">
+</a> &nbsp;&nbsp; <a href="mailto:nitinjotwani154@gmail.com">
     <img alt="Nitin Jotwani | GMail" 
          width="16px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a> 
