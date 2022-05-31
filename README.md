@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nitin Jotwani
 - 👀 I’m interested in ML, NLP, and Backend Developement
 - 🌱 I’m currently working at Citibank as a Data Scientist
-- 📫 Always up for a chat, or a project collaboration. Reach me at - <a href="www.linkedin.com/in/nitinjotwani/">
-    <img alt="Nitin Jotwani | LinkedIn" 
+- 📫 Always up for a chat, or a project collaboration. Reach me at <a href="www.linkedin.com/in/nitinjotwani/">
+    <img align="bottom" alt="Nitin Jotwani | LinkedIn" 
          width="16px" 
          src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a> <a href="https://twitter.com/jotwani_nitin">
