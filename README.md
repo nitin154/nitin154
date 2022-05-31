@@ -1,14 +1,9 @@
 - 👋 Hi, I’m Nitin Jotwani
 - 👀 I’m interested in ML, NLP, and Backend Developement
 - 🌱 I’m currently working at Citibank as a Data Scientist
-- 📫 Always up for a chat, or a project collaboration. Reach me at <a href="www.linkedin.com/in/nitinjotwani/">
-    <img align="bottom" alt="Nitin Jotwani | LinkedIn" 
-         width="16px" 
-         src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp; <a href="https://twitter.com/jotwani_nitin">
-    <img alt="Nitin Jotwani | Twitter" 
-         width="16px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;&nbsp; <a href="mailto:nitinjotwani154@gmail.com">
-    <img alt="Nitin Jotwani | GMail" 
-         width="16px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-</a> 
+<br>
+Always up for a chat, or a project collaboration. Feel free to ping me!
+
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Nitin Jotwani | LinkedIn" width="16px">](https://www.linkedin.com/in/nitinjotwani) &nbsp; &nbsp;
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Nitin Jotwani | Twitter" width="16px" >](https://twitter.com/jotwani_nitin) &nbsp; &nbsp;
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Nitin Jotwani | GMail" width="16px" >](mailto:nitinjotwani154@gmail.com)
